@@ -2,4 +2,4 @@ This is a python code that implements the algorithm introduced in the paper "Adv
 
 the code is written in Pyhton3. In Windows you can install Miniconda and then launch the simulator AutonomousCarTruckCurveRoadControl.py
 
-Some dependencies might be required when you compile the file. You can figure out what is missing from the prompt.
+Some dependencies might be required when you compile the file. You can figure out what is missing from the prompt. During the implementation of the simulalor, one can start/stop capturing the video screenshots by click the 'v' key on the keyboard. One then could generate a smooth video using the screenshots in the ScreenFolder with the ffmpeg toolbox.
